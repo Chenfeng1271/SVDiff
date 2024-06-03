@@ -6,17 +6,18 @@ We present a novel task called online video editing, which is designed to edit s
 
 ## Gallery
 
-<table style="width:100%; text-align:center;">
-<tr>
-  <td align="center">Input Video</td>
-  <td align="center">Output video</td>
-  <td align="center">Input image</td>
-  <td align="center">Output video</td>
-</tr>
-<tr>
-  <td align="center"><img src="visual_editing/car/car-roundabout.mp4" width="100%"></td>
-  <td align="center"><img src="visual_editing/car/car-roundabout-mountain.mp4" width="100%"></td>
-  <td align="center"><img src="visual_editing/car/car-roundabout-jeep-oil.mp4" width="100%"></td>
-  <td align="center"><img src="visual_editing/car/car-roundabout-fire.mp4" width="100%"></td>
-</tr>
-</table>
+
+https://github.com/Chenfeng1271/SVDiff/assets/24824628/1853fbc9-5334-4e2d-a88b-693fc2f0d50b
+
+
+
+## 👇 Citation
+Please cite our paper if you find our work useful and use it in your work.
+```
+@article{chen2024streaming,
+  title={Streaming Video Diffusion: Online Video Editing with Diffusion Models},
+  author={Chen, Feng and Yang, Zhen and Zhuang, Bohan and Wu, Qi},
+  journal={arXiv preprint arXiv:2405.19726},
+  year={2024}
+}
+```
